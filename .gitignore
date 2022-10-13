@@ -1,2 +1,21 @@
 /build*
 /bin/*
+
+# Visual Studio - temporary
+/.vs
+/.idea
+*/.vs
+
+# Visual Studio - project files (we generate them anyway)
+*.sln
+*sln.DotSettings.user
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Generated build files
+Intermediate/
+
+# Output dir
+Bin/
+Lib/
